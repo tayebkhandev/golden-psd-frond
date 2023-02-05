@@ -1,0 +1,23 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.image img
+{
+    width: 100%;
+    position: relative;
+}
+
+.image .text
+{
+    position: absolute;
+    bottom: 0;
+    color: red;
+    font-size: 30px;
+    top: 40%;
+    left: 33%;
+   
+}
